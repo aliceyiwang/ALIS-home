@@ -23,7 +23,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In * AAAI Conference on Artificial Intelligence (AAAI'26).*
-publication_short: In *AAAI2026*
+publication_short: In * AAAI *
 
 abstract: Existing core-set selection methods predominantly rely on heuristic scoring signals such as training dynamics or model uncertainty, lacking explicit modeling of data likelihood. This omission may hinder the constructed subset from capturing subtle yet critical distributional structures that underpin effective model training. In this work, we propose a novel, theoretically grounded approach that leverages diffusion models to estimate data likelihood via reconstruction deviation induced by partial reverse denoising. Specifically, we establish a formal connection between reconstruction error and data likelihood, grounded in the Evidence Lower Bound (ELBO) of Markovian diffusion processes, thereby enabling a principled, distribution-aware scoring criterion for data selection. Complementarily, we introduce an efficient information-theoretic method to identify the optimal reconstruction timestep, ensuring that the deviation provides a reliable signal indicative of underlying data likelihood. Extensive experiments on ImageNet demonstrate that reconstruction deviation offers an effective scoring criterion, consistently outperforming existing baselines across selection ratios, and closely matching full-data training using only 50% of the data. Further analysis shows that the likelihood-informed nature of our score reveals informative insights in data selection, shedding light on the interplay between data distributional characteristics and model learning preferences.
 
@@ -32,7 +32,7 @@ abstract: Existing core-set selection methods predominantly rely on heuristic sc
 
 
 # links:
-url_pdf: https://arxiv.org/pdf/2511.19274
+url_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/38473
 url_code: https://github.com/mchen725/DRD
 # url_dataset: ''
 # url_poster:  ''
