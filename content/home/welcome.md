@@ -78,15 +78,11 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                     <div class="col-md-5">
                         <div class="section-subheading">Research Interests</div>
                         <ul class="ul-interests mb-0">
-                            <li>Adversarial Machine Learning</li>
-                            <li>Content-based Image Retrieval</li>
-                            <li>Biometric Privacy</li>
-                            <li>Anomaly Detection</li>
-                            <li>Pattern Recognition</li>
+                            <li>Trustworthy AI | Adversarial Machine Learning | Knowledge Distillation | Federated Learning Biometric Security and Privacy</li>
                         </ul>
                     </div>
                     <div class="col-md-7" style="margin-top: 50px;">
-                        <img src="/home/lab.jpg">
+                        <img src="/home/research_interests.jpg">
                     </div>
                 </div>
             </div>
