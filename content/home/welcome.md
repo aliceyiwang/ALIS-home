@@ -77,10 +77,8 @@ The **DGUT-301 ALIS-Lab** has been a center of excellence for Artificial Intelli
                 <div class="row">
                     <div class="col-md-5">
                         <div class="section-subheading">Research Interests</div>
-                    </div>
-                    <div class="col-md-10" style="margin-top: 50px;">
-                        <img src="/home/research_interests.jpg">
-                    </div>
+                    </div> 
+                        <img src="/home/research_interests.jpg"> 
                 </div>
             </div>
         </div>
