@@ -1,6 +1,7 @@
 ---
 title: Publications
-view: 5     # 5：showcase 视图
+view: 4
+#view: 5     # 5：showcase 视图
 
 header:
   caption: ""
